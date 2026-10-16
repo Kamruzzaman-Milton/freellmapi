@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">FreeLLM Hub</string>
+    <string name="tab_chat">Chat</string>
+    <string name="tab_providers">Providers</string>
+    <string name="tab_catalog">Catalog</string>
+    <string name="tab_settings">Settings</string>
+    <string name="chat_input_hint">Ask anything or enter a prompt...</string>
+    <string name="select_model">Select Model</string>
+    <string name="unlocked_free_tiers">34+ Free Providers Unlocked</string>
+    <string name="test_ping">Ping</string>
+    <string name="edit_key">Configure Key</string>
+    <string name="get_free_key">Get Free Key</string>
+    <string name="copy">Copy</string>
+    <string name="copied_to_clipboard">Copied to clipboard</string>
+    <string name="system_prompt">System Prompt</string>
+    <string name="temperature">Temperature</string>
+    <string name="clear_chat">Clear Chat</string>
+    <string name="search_models">Search free models, families, providers...</string>
+</resources>
